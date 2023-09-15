@@ -7,7 +7,7 @@
   vars: 
   
   vars_files:
-  - ../creds/bigip_creds.yaml
+  - ./creds/bigip_creds.yaml
   
   tasks:
   - name: Deploy a VIP
