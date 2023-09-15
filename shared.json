@@ -17,7 +17,7 @@
                     "virtualAddresses": [
                         "10.0.1.10"
                     ],
-                    "pool": {"bigip": "/Common/hared/poolRoundRobin"}
+                    "pool": {"bigip": "/Common/Shared/poolRoundRobin"}
                 }
                             
             }
